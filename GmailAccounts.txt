@@ -1,0 +1,5 @@
+{'firstName': 'Karl', 'lastName': 'Navarro', 'email': 'KarlNavarro1234567890', 'password': 'XY1234567890YX', 'birthDate': {'day': '29', 'month': '9', 'year': '1992'}}
+{'firstName': 'Hannah', 'lastName': 'Nairn', 'email': 'HannahNairn1234567890', 'password': 'XY1234567890YX', 'birthDate': {'day': '12', 'month': '12', 'year': '1970'}}
+{'firstName': 'Nabeela', 'lastName': 'Vickers', 'email': 'NabeelaVickers1234567890', 'password': 'XY1234567890YX', 'birthDate': {'day': '22', 'month': '3', 'year': '1977'}}
+{'firstName': 'Alima', 'lastName': 'Stokes', 'email': 'AlimaStokes1234567890', 'password': 'XY1234567890YX', 'birthDate': {'day': '27', 'month': '4', 'year': '1991'}}
+error // {'firstName': 'Ema', 'lastName': 'Derrick', 'email': 'EmaDerrick1234567890', 'password': 'XY1234567890YX', 'birthDate': {'day': '14', 'month': '2', 'year': '1962'}}
