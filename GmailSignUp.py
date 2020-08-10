@@ -34,6 +34,7 @@ def gmail():
             """
             account = Account(line[0], line[1], number)
             print(vars(account))
+
             """driver.find_element_by_name("firstName").send_keys(account.firstName)
             time.sleep(random.uniform(1.0, 10.5))
             driver.find_element_by_name("lastName").send_keys(account.lastName)
@@ -77,7 +78,6 @@ def gmail():
 
             counter += 1
         except Exception as e:
-
             print(e)
 
 
