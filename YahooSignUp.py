@@ -12,17 +12,22 @@ def yahoo():
     accounts = open("Names.txt", "r")
     numbers = open("Numbers.txt", "r")
     number = numbers.readline()
-    counter = 0
+    counter = 1
+    """freeProxy = FreeProxy(country_id=["US"])
+    proxy = freeProxy.get()"""
 
     while True:
         try:
             if counter == 5:
+                # proxy = freeProxy.get()
                 number = numbers.readline()
                 counter = 0
             line = accounts.readline().split()
             if line is None:
                 break
 
+            chrome_options = webdriver.ChromeOptions()
+            # chrome_options.add_argument('--proxy-server=%s' % proxy)
             driver = webdriver.Chrome(executable_path="D:\\chromedriver.exe")
 
             driver.get('https://login.yahoo.com/account/create?specId=yidReg')
@@ -55,7 +60,7 @@ def yahoo():
             time.sleep(random.uniform(1.0, 10.0))
             driver.find_element_by_id("reg-submit-button").click()
 
-            input("click after resolve captcha and phone verification ...")
+            input("Click after resolve Captcha and phone verification ...")
 
             with open('./YahooAccounts.txt', "a+") as myfile:
                 bd = vars(account.birthDate)
