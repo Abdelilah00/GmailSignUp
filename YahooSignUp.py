@@ -1,11 +1,10 @@
-import os
 import random
 import time
-from fp.fp import FreeProxy
+
 from selenium import webdriver
 from selenium.webdriver.support.select import Select
 
-from models import Account, BirthDate
+from models import Account
 
 
 def yahoo():
@@ -13,21 +12,16 @@ def yahoo():
     numbers = open("Numbers.txt", "r")
     number = numbers.readline()
     counter = 1
-    """freeProxy = FreeProxy(country_id=["US"])
-    proxy = freeProxy.get()"""
 
     while True:
         try:
             if counter == 5:
-                # proxy = freeProxy.get()
                 number = numbers.readline()
                 counter = 0
             line = accounts.readline().split()
             if line is None:
                 break
 
-            chrome_options = webdriver.ChromeOptions()
-            # chrome_options.add_argument('--proxy-server=%s' % proxy)
             driver = webdriver.Chrome(executable_path="D:\\chromedriver.exe")
 
             driver.get('https://login.yahoo.com/account/create?specId=yidReg')
