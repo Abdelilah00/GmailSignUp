@@ -10,10 +10,9 @@ class BirthDate:
 
 
 class Account:
-    def __init__(self, firstName, lastName, phoneNumber):
+    def __init__(self, firstName, lastName):
         self.firstName = firstName
         self.lastName = lastName
         self.email = firstName + lastName + str(random.randint(100, 999999))
         self.password = "XY" + str(random.randint(1000, 99999)) + "YX"
         self.birthDate = BirthDate()
-        self.phoneNumber = phoneNumber

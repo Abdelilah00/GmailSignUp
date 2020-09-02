@@ -2,7 +2,8 @@
 {'firstName': 'Lorena', 'lastName': 'Robles', 'email': 'LorenaRobles682504', 'password': 'XY21975YX', 'birthDate': {'day': '26', 'month': '12', 'year': '1965'}, 'phoneNumber': '635135110\n'}
 {'firstName': 'Sonnie', 'lastName': 'Prentice', 'email': 'SonniePrentice353825', 'password': 'XY44937YX', 'birthDate': {'day': '15', 'month': '8', 'year': '1967'}, 'phoneNumber': '635135110\n'}
 {'firstName': 'Reon', 'lastName': 'Farley', 'email': 'ReonFarley301259', 'password': 'XY83083YX', 'birthDate': {'day': '20', 'month': '10', 'year': '1974'}, 'phoneNumber': '635135110\n'}
-*{'firstName': 'Mila', 'lastName': 'Kirk', 'email': 'MilaKirk77446', 'password': 'XY25313YX', 'birthDate': {'day': '5', 'month': '2', 'year': '1980'}, 'phoneNumber': '635134377'}
-*{'firstName': 'Arran', 'lastName': 'Mejia', 'email': 'ArranMejia680040', 'password': 'XY75422YX', 'birthDate': {'day': '24', 'month': '12', 'year': '1963'}, 'phoneNumber': '635134377'}
-*{'firstName': 'Stuart', 'lastName': 'Greene', 'email': 'StuartGreene549551', 'password': 'XY84199YX', 'birthDate': {'day': '17', 'month': '12', 'year': '1979'}, 'phoneNumber': '635134377'}
+
+{'firstName': 'Mila', 'lastName': 'Kirk', 'email': 'MilaKirk77446', 'password': 'XY25313YX', 'birthDate': {'day': '5', 'month': '2', 'year': '1980'}, 'phoneNumber': '635134377'}
+{'firstName': 'Arran', 'lastName': 'Mejia', 'email': 'ArranMejia680040', 'password': 'XY75422YX', 'birthDate': {'day': '24', 'month': '12', 'year': '1963'}, 'phoneNumber': '635134377'}
+{'firstName': 'Stuart', 'lastName': 'Greene', 'email': 'StuartGreene549551', 'password': 'XY84199YX', 'birthDate': {'day': '17', 'month': '12', 'year': '1979'}, 'phoneNumber': '635134377'}
 {'firstName': 'Dewi', 'lastName': 'Mcbride', 'email': 'DewiMcbride507374', 'password': 'XY61569YX', 'birthDate': {'day': '27', 'month': '11', 'year': '1963'}, 'phoneNumber': '626906071\n'}

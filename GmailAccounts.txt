@@ -1,8 +1,1 @@
-{'firstName': 'Karl', 'lastName': 'Navarro', 'email': 'KarlNavarro1234567890', 'password': 'XY1234567890YX', 'birthDate': {'day': '29', 'month': '9', 'year': '1992'}}
-{'firstName': 'Hannah', 'lastName': 'Nairn', 'email': 'HannahNairn1234567890', 'password': 'XY1234567890YX', 'birthDate': {'day': '12', 'month': '12', 'year': '1970'}}
-{'firstName': 'Nabeela', 'lastName': 'Vickers', 'email': 'NabeelaVickers1234567890', 'password': 'XY1234567890YX', 'birthDate': {'day': '22', 'month': '3', 'year': '1977'}}
-{'firstName': 'Alima', 'lastName': 'Stokes', 'email': 'AlimaStokes1234567890', 'password': 'XY1234567890YX', 'birthDate': {'day': '27', 'month': '4', 'year': '1991'}}
-// {'firstName': 'Ema', 'lastName': 'Derrick', 'email': 'EmaDerrick1234567890', 'password': 'XY1234567890YX', 'birthDate': {'day': '14', 'month': '2', 'year': '1962'}}
-{'firstName': 'Maud', 'lastName': 'Blankenship', 'email': 'maudblankenship123456@gmail.com', 'password': 'XY1234567890YX', 'birthDate': {'day': '16', 'month': '1', 'year': '1998'}}
-//{'firstName': 'Carina', 'lastName': 'Hickman', 'email': '588207', 'password': 'XY50781YX', 'birthDate': {'day': '24', 'month': '11', 'year': '1982'}}
-{'firstName': 'Rea', 'lastName': 'Lowe', 'email': '355691', 'password': 'XY54501YX', 'birthDate': {'day': '22', 'month': '12', 'year': '1983'}}
+kristenrutherford120@gmail.com	tPKJPzRdUr
